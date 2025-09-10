@@ -1,3 +1,4 @@
 [submodule "test_sub_model010"]
 	path = test_sub_model010
 	url = https://github.com/Infineon/deepcraft-model-zoo-for-psoc-edge.git
+	branch = update-test_sub_model010
